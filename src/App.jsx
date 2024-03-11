@@ -4,7 +4,7 @@ import { Button } from "@mui/material";
 function App() {
   return (
     <>
-      <h1>Trungquandev</h1>
+      <div>Trungquandev</div>
       <Button variant="contained">Hello World</Button>
       <AccessAlarm />
       <ThreeDRotation />
